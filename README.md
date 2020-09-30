@@ -1,5 +1,5 @@
 # hackthebox_invite_code_generator
-This tool help you to generate Hackthebox invite codes automatically & unlimited times
+This tool helps you to generate Hackthebox invite codes automatically & unlimited times
 
 ```
 # Installtion for linux
