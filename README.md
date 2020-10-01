@@ -1,6 +1,8 @@
 # hackthebox_invite_code_generator
 This tool helps you to generate Hackthebox invite codes automatically & unlimited times
 
+## Only works in windows 8, windows 8.1, windows 10 & linux/mac
+
 ```
 # Installtion for linux
 
