@@ -4,7 +4,7 @@ This tool helps you to generate Hackthebox invite codes automatically & unlimite
 ## Only works in windows 8, windows 8.1, windows 10 & linux/mac
 
 ```
-# Installtion for linux
+# Installation for linux
 
 1) pip install requests or pip3 install requests
 2) sudo chmod +x *
