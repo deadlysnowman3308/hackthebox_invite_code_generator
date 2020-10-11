@@ -10,7 +10,7 @@ This tool helps you to generate Hackthebox invite codes automatically & unlimite
 2) sudo chmod +x *
 3) sudo ./hack-the-box-Linux
 
-* Follow in tool instrction
+* Follow in tool instruction
 ```
 
 ```
