@@ -1,6 +1,6 @@
 run="cd Hackthebox_main_code && python3 main.py"
 language="python3"
-onBoot="echo Welcome to HackingVila!"
+onBoot="echo Welcome to HackingVila! hackthebox_invite_code_generator"
 
 [packager]
 afterInstall="date >> package_install_log"
