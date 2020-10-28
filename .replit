@@ -1,4 +1,4 @@
-run="Hackthebox_main_code/python3 main.py"
+run="cd Hackthebox_main_code && python3 main.py"
 language="python3"
 onBoot="echo Welcome to HackingVila!"
 
